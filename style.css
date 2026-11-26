@@ -46,4 +46,9 @@ body {
     width: auto;
     margin: 20px 16px 0;
   }
+
+  #content p {
+    text-align: justify;
+    hyphens: auto;
+  }
 }
