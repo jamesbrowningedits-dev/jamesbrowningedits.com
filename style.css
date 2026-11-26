@@ -22,6 +22,11 @@ body {
   color: #0864c7;
 }
 
+#menu .title {
+  color: inherit;
+  text-decoration: none;
+}
+
 #content {
   margin-top: 30px;
   margin-left: 200px;
